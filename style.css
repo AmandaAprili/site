@@ -47,7 +47,7 @@ main ul{
     height: 60px;
     flex-wrap: wrap;
     text-align: center;
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(255, 255, 255);
 }
 
 /* header ul{
@@ -59,7 +59,7 @@ main ul{
     background-color: rgb(255, 255, 255);
 } */
 main {
-    background-color:rgb(240, 240, 240);
+    background-color:rgb(255, 255, 255);
     text-align: center;
 }
 main ul li{
